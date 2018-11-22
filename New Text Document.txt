@@ -1,2 +1,4 @@
 this is anpther file that need to go inth e repo.
  this time i am making changges t inthe file to seees
+
+this one needs to update and ignore the secrate.txt file 
